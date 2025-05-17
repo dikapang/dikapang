@@ -10,7 +10,33 @@
 
 ###
 
-<p align="left">🚀 Skills<br><br>Programming Languages: JavaScript, PHP<br><br>Frontend Development: React.js<br><br>Backend Development: Laravel, Supabase<br><br>Databases: MySQL, MongoDB<br><br>💡 Fun Facts<br><br>Mountain ClimberHiking mountains is my passion. The journey to the summit teaches me perseverance that I apply to solving complex coding problems.<br><br>Avid ReaderI enjoy reading books across various genres. Reading expands my perspective and helps me approach development challenges with fresh ideas.<br><br>German LearnerI'm currently learning German. I believe understanding different languages improves my logical thinking and problem-solving abilities.<br><br>Night Owl CoderMy most productive coding hours are between 10 PM and 2 AM. That's when the best ideas seem to flow!<br><br>Feel free to explore my repositories and reach out if you want to collaborate!</p>
+<p align="left">
+
+🚀 **Skills**
+
+- **Programming Languages:** JavaScript, PHP  
+- **Frontend Development:** React.js  
+- **Backend Development:** Laravel, Supabase  
+- **Databases:** MySQL, MongoDB  
+
+💡 **Fun Facts**
+
+- **Mountain Climber**  
+  Hiking mountains is my passion. The journey to the summit teaches me perseverance that I apply to solving complex coding problems.
+
+- **Avid Reader**  
+  I enjoy reading books across various genres. Reading expands my perspective and helps me approach development challenges with fresh ideas.
+
+- **German Learner**  
+  I'm currently learning German. I believe understanding different languages improves my logical thinking and problem-solving abilities.
+
+- **Night Owl Coder**  
+  My most productive coding hours are between 10 PM and 2 AM. That's when the best ideas seem to flow!
+
+Feel free to explore my repositories and reach out if you want to collaborate!
+
+</p>
+
 
 ###
 
